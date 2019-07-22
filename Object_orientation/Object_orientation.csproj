@@ -39,12 +39,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Step3.cs" />
+    <Compile Include="Step6_SerchWord.cs" />
+    <Compile Include="Step7.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="Step1.cs" />
     <None Include="Step2.cs" />
+    <None Include="Step3.cs" />
+    <None Include="Step4.cs" />
+    <None Include="Step5.cs" />
+    <None Include="Step6_Main.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
